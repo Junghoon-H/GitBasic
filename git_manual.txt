@@ -1,3 +1,1 @@
 How to use Git
-
-알아서 쓰쇼
